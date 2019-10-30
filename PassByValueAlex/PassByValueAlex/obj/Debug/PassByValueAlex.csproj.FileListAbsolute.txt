@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\PassByValueAlex\PassByValueAlex\bin\Debug\PassByValueAlex.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\PassByValueAlex\PassByValueAlex\bin\Debug\PassByValueAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\PassByValueAlex\PassByValueAlex\bin\Debug\PassByValueAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\PassByValueAlex\PassByValueAlex\obj\Debug\PassByValueAlex.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\PassByValueAlex\PassByValueAlex\obj\Debug\PassByValueAlex.frmTemperatureconverter.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\PassByValueAlex\PassByValueAlex\obj\Debug\PassByValueAlex.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\PassByValueAlex\PassByValueAlex\obj\Debug\PassByValueAlex.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\PassByValueAlex\PassByValueAlex\obj\Debug\PassByValueAlex.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\PassByValueAlex\PassByValueAlex\obj\Debug\PassByValueAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\PassByValueAlex\PassByValueAlex\obj\Debug\PassByValueAlex.pdb
