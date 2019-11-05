@@ -1,6 +1,6 @@
 ﻿namespace OptionalParametersAlex
 {
-    partial class frmOptionalParameter
+    partial class FrmOptionalParameter
     {
         /// <summary>
         /// Required designer variable.
@@ -28,11 +28,11 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
-            this.textBox3 = new System.Windows.Forms.TextBox();
-            this.textBox4 = new System.Windows.Forms.TextBox();
-            this.textBox5 = new System.Windows.Forms.TextBox();
+            this.txtAddress = new System.Windows.Forms.TextBox();
+            this.txtCity = new System.Windows.Forms.TextBox();
+            this.txtUnit = new System.Windows.Forms.TextBox();
+            this.txtPostalCode = new System.Windows.Forms.TextBox();
+            this.txtProvince = new System.Windows.Forms.TextBox();
             this.lblEnter = new System.Windows.Forms.Label();
             this.lblUnit = new System.Windows.Forms.Label();
             this.lblPostalCode = new System.Windows.Forms.Label();
@@ -42,40 +42,40 @@
             this.btnEnter = new System.Windows.Forms.Button();
             this.SuspendLayout();
             // 
-            // textBox1
+            // txtAddress
             // 
-            this.textBox1.Location = new System.Drawing.Point(225, 82);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(209, 20);
-            this.textBox1.TabIndex = 0;
+            this.txtAddress.Location = new System.Drawing.Point(225, 82);
+            this.txtAddress.Name = "txtAddress";
+            this.txtAddress.Size = new System.Drawing.Size(209, 20);
+            this.txtAddress.TabIndex = 0;
             // 
-            // textBox2
+            // txtCity
             // 
-            this.textBox2.Location = new System.Drawing.Point(259, 153);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(152, 20);
-            this.textBox2.TabIndex = 1;
+            this.txtCity.Location = new System.Drawing.Point(259, 153);
+            this.txtCity.Name = "txtCity";
+            this.txtCity.Size = new System.Drawing.Size(152, 20);
+            this.txtCity.TabIndex = 1;
             // 
-            // textBox3
+            // txtUnit
             // 
-            this.textBox3.Location = new System.Drawing.Point(259, 362);
-            this.textBox3.Name = "textBox3";
-            this.textBox3.Size = new System.Drawing.Size(100, 20);
-            this.textBox3.TabIndex = 2;
+            this.txtUnit.Location = new System.Drawing.Point(259, 362);
+            this.txtUnit.Name = "txtUnit";
+            this.txtUnit.Size = new System.Drawing.Size(100, 20);
+            this.txtUnit.TabIndex = 2;
             // 
-            // textBox4
+            // txtPostalCode
             // 
-            this.textBox4.Location = new System.Drawing.Point(259, 285);
-            this.textBox4.Name = "textBox4";
-            this.textBox4.Size = new System.Drawing.Size(100, 20);
-            this.textBox4.TabIndex = 3;
+            this.txtPostalCode.Location = new System.Drawing.Point(259, 285);
+            this.txtPostalCode.Name = "txtPostalCode";
+            this.txtPostalCode.Size = new System.Drawing.Size(100, 20);
+            this.txtPostalCode.TabIndex = 3;
             // 
-            // textBox5
+            // txtProvince
             // 
-            this.textBox5.Location = new System.Drawing.Point(259, 219);
-            this.textBox5.Name = "textBox5";
-            this.textBox5.Size = new System.Drawing.Size(124, 20);
-            this.textBox5.TabIndex = 4;
+            this.txtProvince.Location = new System.Drawing.Point(259, 219);
+            this.txtProvince.Name = "txtProvince";
+            this.txtProvince.Size = new System.Drawing.Size(124, 20);
+            this.txtProvince.TabIndex = 4;
             // 
             // lblEnter
             // 
@@ -148,7 +148,7 @@
             this.btnEnter.UseVisualStyleBackColor = true;
             this.btnEnter.Click += new System.EventHandler(this.BtnEnter_Click);
             // 
-            // frmOptionalParameter
+            // FrmOptionalParameter
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
@@ -160,12 +160,12 @@
             this.Controls.Add(this.lblPostalCode);
             this.Controls.Add(this.lblUnit);
             this.Controls.Add(this.lblEnter);
-            this.Controls.Add(this.textBox5);
-            this.Controls.Add(this.textBox4);
-            this.Controls.Add(this.textBox3);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
-            this.Name = "frmOptionalParameter";
+            this.Controls.Add(this.txtProvince);
+            this.Controls.Add(this.txtPostalCode);
+            this.Controls.Add(this.txtUnit);
+            this.Controls.Add(this.txtCity);
+            this.Controls.Add(this.txtAddress);
+            this.Name = "FrmOptionalParameter";
             this.Text = "Address Program with Procedure Overloading";
             this.ResumeLayout(false);
             this.PerformLayout();
@@ -174,11 +174,11 @@
 
         #endregion
 
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
-        private System.Windows.Forms.TextBox textBox3;
-        private System.Windows.Forms.TextBox textBox4;
-        private System.Windows.Forms.TextBox textBox5;
+        private System.Windows.Forms.TextBox txtAddress;
+        private System.Windows.Forms.TextBox txtCity;
+        private System.Windows.Forms.TextBox txtUnit;
+        private System.Windows.Forms.TextBox txtPostalCode;
+        private System.Windows.Forms.TextBox txtProvince;
         private System.Windows.Forms.Label lblEnter;
         private System.Windows.Forms.Label lblUnit;
         private System.Windows.Forms.Label lblPostalCode;

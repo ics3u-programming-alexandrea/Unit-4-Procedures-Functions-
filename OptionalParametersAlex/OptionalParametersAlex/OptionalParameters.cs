@@ -16,7 +16,7 @@ namespace OptionalParametersAlex
         {
             Application.EnableVisualStyles();
             Application.SetCompatibleTextRenderingDefault(false);
-            Application.Run(new frmOptionalParameter());
+            Application.Run(new FrmOptionalParameter());
         }
     }
 }
