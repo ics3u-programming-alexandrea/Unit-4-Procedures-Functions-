@@ -22,7 +22,27 @@ namespace VolumeofCylinderAlex
         {
             this.lblAnswer.Hide();
         }
+
+
         //Fuction:CalculateVolume
-        //Input:
+        //Input: int radius, int height
+        //Output: int
+        //Description: this function returns the radius and height of a cylinder and calculates the volume
+        private double CalculateVolume(double radius, double height)
+        {
+            double volume;
+            //calculate the volume
+            volume = (double)Math.PI * radius * radius * height;
+            return volume;
+
+
+        }
+
+        private void btnCalculate_Click(object sender, EventArgs e)
+        {
+            //display the volume
+            lblAnswer.Text = "Volume = " + Convert.ToString (CalculateVolume(double.Parse(txtHeight.Text), double.Parse(txtRadius.Text))) + "cubic litres";
+            this.lblAnswer.Show();
+        }
     }
 }

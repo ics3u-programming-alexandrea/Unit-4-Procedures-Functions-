@@ -45,6 +45,7 @@
             this.btnCalculate.TabIndex = 0;
             this.btnCalculate.Text = "Calculate Volume";
             this.btnCalculate.UseVisualStyleBackColor = true;
+            this.btnCalculate.Click += new System.EventHandler(this.btnCalculate_Click);
             // 
             // lblRadius
             // 
