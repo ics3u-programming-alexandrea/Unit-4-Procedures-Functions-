@@ -1,4 +1,11 @@
-﻿using System;
+﻿/*
+ * Created by: Alex Ude
+ * Created on: 06-November-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #33 - Volume of a Cylinder
+ * This program calculates the volume of a cylinder by the users value for the radius and height
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
@@ -40,9 +47,34 @@ namespace VolumeofCylinderAlex
 
         private void btnCalculate_Click(object sender, EventArgs e)
         {
-            //display the volume
-            lblAnswer.Text = "Volume = " + Convert.ToString (CalculateVolume(double.Parse(txtHeight.Text), double.Parse(txtRadius.Text))) + "cubic litres";
-            this.lblAnswer.Show();
+            String userRadius, userHeight;
+
+            double userVolume;
+
+            userRadius = this.txtRadius.Text;
+            userHeight = this.txtHeight.Text;
+
+            if (userRadius=="")
+            {
+                MessageBox.Show("Please enter the radius", "Volume of Cylinder");
+            }
+            else if (userHeight == "")
+            {
+                MessageBox.Show("Please enter the Height" , "Volume of Cylinder");
+            }
+            else
+            {
+                userVolume = CalculateVolume(double.Parse(userHeight), double.Parse(userRadius));
+
+                //display the volume
+                lblAnswer.Text = "Volume = " + Convert.ToString(userVolume) + "cubic litres";
+                this.lblAnswer.Show();
+            }
+
+            
+
+           
+
         }
     }
 }
