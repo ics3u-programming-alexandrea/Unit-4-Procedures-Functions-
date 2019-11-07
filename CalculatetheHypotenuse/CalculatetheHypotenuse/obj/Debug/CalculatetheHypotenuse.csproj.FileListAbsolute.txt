@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\CalculatetheHypotenuse\CalculatetheHypotenuse\bin\Debug\CalculatetheHypotenuse.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\CalculatetheHypotenuse\CalculatetheHypotenuse\bin\Debug\CalculatetheHypotenuse.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\CalculatetheHypotenuse\CalculatetheHypotenuse\bin\Debug\CalculatetheHypotenuse.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\CalculatetheHypotenuse\CalculatetheHypotenuse\obj\Debug\CalculatetheHypotenuse.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\CalculatetheHypotenuse\CalculatetheHypotenuse\obj\Debug\CalculatetheHypotenuse.FrmCalculatetheHypotenuse.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\CalculatetheHypotenuse\CalculatetheHypotenuse\obj\Debug\CalculatetheHypotenuse.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\CalculatetheHypotenuse\CalculatetheHypotenuse\obj\Debug\CalculatetheHypotenuse.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\CalculatetheHypotenuse\CalculatetheHypotenuse\obj\Debug\CalculatetheHypotenuse.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\CalculatetheHypotenuse\CalculatetheHypotenuse\obj\Debug\CalculatetheHypotenuse.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\CalculatetheHypotenuse\CalculatetheHypotenuse\obj\Debug\CalculatetheHypotenuse.pdb
