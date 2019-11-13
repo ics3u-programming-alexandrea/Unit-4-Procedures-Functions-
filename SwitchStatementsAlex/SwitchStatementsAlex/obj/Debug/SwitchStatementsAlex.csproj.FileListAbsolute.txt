@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\SwitchStatementsAlex\SwitchStatementsAlex\bin\Debug\SwitchStatementsAlex.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\SwitchStatementsAlex\SwitchStatementsAlex\bin\Debug\SwitchStatementsAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\SwitchStatementsAlex\SwitchStatementsAlex\bin\Debug\SwitchStatementsAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\SwitchStatementsAlex\SwitchStatementsAlex\obj\Debug\SwitchStatementsAlex.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\SwitchStatementsAlex\SwitchStatementsAlex\obj\Debug\SwitchStatementsAlex.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\SwitchStatementsAlex\SwitchStatementsAlex\obj\Debug\SwitchStatementsAlex.frmSwitchStatements.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\SwitchStatementsAlex\SwitchStatementsAlex\obj\Debug\SwitchStatementsAlex.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\SwitchStatementsAlex\SwitchStatementsAlex\obj\Debug\SwitchStatementsAlex.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\SwitchStatementsAlex\SwitchStatementsAlex\obj\Debug\SwitchStatementsAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\SwitchStatementsAlex\SwitchStatementsAlex\obj\Debug\SwitchStatementsAlex.pdb
