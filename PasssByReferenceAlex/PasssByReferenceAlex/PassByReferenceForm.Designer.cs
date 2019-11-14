@@ -35,7 +35,7 @@
             // 
             // picImage
             // 
-            this.picImage.Image = global::PasssByReferenceAlex.Properties.Resources.QS;
+            this.picImage.Image = global::PasssByReferenceAlex.Properties.Resources._10S1;
             this.picImage.Location = new System.Drawing.Point(3, 88);
             this.picImage.Name = "picImage";
             this.picImage.Size = new System.Drawing.Size(388, 452);
