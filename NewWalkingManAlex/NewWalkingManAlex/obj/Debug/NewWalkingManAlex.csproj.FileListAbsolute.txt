@@ -1,0 +1,10 @@
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\NewWalkingManAlex\NewWalkingManAlex\obj\Debug\NewWalkingManAlex.csprojAssemblyReference.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\NewWalkingManAlex\NewWalkingManAlex\obj\Debug\NewWalkingManAlex.frmNewWalkingMan.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\NewWalkingManAlex\NewWalkingManAlex\obj\Debug\NewWalkingManAlex.Properties.Resources.resources
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\NewWalkingManAlex\NewWalkingManAlex\obj\Debug\NewWalkingManAlex.csproj.GenerateResource.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\NewWalkingManAlex\NewWalkingManAlex\obj\Debug\NewWalkingManAlex.csproj.CoreCompileInputs.cache
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\NewWalkingManAlex\NewWalkingManAlex\bin\Debug\NewWalkingManAlex.exe.config
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\NewWalkingManAlex\NewWalkingManAlex\bin\Debug\NewWalkingManAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\NewWalkingManAlex\NewWalkingManAlex\bin\Debug\NewWalkingManAlex.pdb
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\NewWalkingManAlex\NewWalkingManAlex\obj\Debug\NewWalkingManAlex.exe
+N:\Classes\Sem1-Fall2019\ICS3U Programming\UAlex (s465640)\Unit 4 (Procedures & Functions)\NewWalkingManAlex\NewWalkingManAlex\obj\Debug\NewWalkingManAlex.pdb

@@ -7,7 +7,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.Windows.Forms;
-
+using System.Threading;
 namespace NewWalkingManAlex
 {
      
@@ -33,6 +33,7 @@ namespace NewWalkingManAlex
         {
             //reveal the instructions 
             this.lblInstructions.Show();
+            this.btnStart.Hide();
             //generate the picture boxes with their event listeners
             GeneratePictureBoxes();
 
@@ -75,48 +76,70 @@ namespace NewWalkingManAlex
             int pictureFrameCounter = 1;
 
             //continue this loop while frame counter has not reached the max number of frames we have 
-            while(pictureFrameCounter< MAX_FRAMES + 1 )
+            while(pictureFrameCounter < MAX_FRAMES + 1 )
             {
-                if(pictureFrameCounter==1)
+                if (pictureFrameCounter == 1)
                 {
-                    tmpPicMan = Properties.Resources.walk1;
+                    tmpPicMan.Image = Properties.Resources.walk1;
+                    //addd one to the picture frame counter
+                    //addd one to the picture frame counter
+                    pictureFrameCounter++;
                 }
                 else if (pictureFrameCounter == 2)
                 {
-                    tmpPicMan = Properties.Resources.walk2;
+                    tmpPicMan.Image = Properties.Resources.walk2;
+                    //addd one to the picture frame counter
+                    pictureFrameCounter++;
 
                 }
                 else if (pictureFrameCounter == 3)
                 {
-                    tmpPicMan = Properties.Resources.walk3;
+                    tmpPicMan.Image = Properties.Resources.walk3;
+                    //addd one to the picture frame counter
+                    pictureFrameCounter++;
                 }
                 else if (pictureFrameCounter == 4)
                 {
-                    tmpPicMan = Properties.Resources.walk4;
+                    tmpPicMan.Image = Properties.Resources.walk4;
+                    //addd one to the picture frame counter
+                   pictureFrameCounter++;
                 }
                 else if (pictureFrameCounter == 5)
                 {
-                    tmpPicMan = Properties.Resources.walk5;
+                    tmpPicMan.Image = Properties.Resources.walk5;
+                    //addd one to the picture frame counter
+                     pictureFrameCounter++;
                 }
                 else if (pictureFrameCounter == 6)
                 {
-                    tmpPicMan = Properties.Resources.walk6;
+                    tmpPicMan.Image = Properties.Resources.walk6;
+                    //addd one to the picture frame counter
+                     pictureFrameCounter++;
                 }
                 else if (pictureFrameCounter == 7)
                 {
-                    tmpPicMan = Properties.Resources.walk7;
+                    tmpPicMan.Image = Properties.Resources.walk7;
+                    //addd one to the picture frame counter
+                    pictureFrameCounter++;
                 }
                 else if (pictureFrameCounter == 8)
                 {
-                    tmpPicMan = Properties.Resources.walk8;
+                    tmpPicMan.Image = Properties.Resources.walk8;
+                    //addd one to the picture frame counter
+                     pictureFrameCounter++;
                 }
                 else if (pictureFrameCounter == 9)
                 {
-                    tmpPicMan = Properties.Resources.walk9;
+                    tmpPicMan.Image = Properties.Resources.walk9;
+                    //addd one to the picture frame counter
+                     pictureFrameCounter++;
                 }
                 else if (pictureFrameCounter == 10)
                 {
-                    tmpPicMan = Properties.Resources.walk10;
+                    tmpPicMan.Image = Properties.Resources.walk10;
+                    //addd one to the picture frame counter
+                    pictureFrameCounter++;
+
                 }
                 //refresh the form
                 this.Refresh();
@@ -127,5 +150,5 @@ namespace NewWalkingManAlex
 
         }
     }
-    }
+    
 }
