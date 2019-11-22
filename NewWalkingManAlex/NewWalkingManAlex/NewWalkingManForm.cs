@@ -1,4 +1,12 @@
-﻿using System;
+﻿/*
+ * Created by: Alex Ude
+ * Created on: 22-november-2019
+ * Created for: ICS3U Programming
+ * Daily Assignment – Day #34 -Dynamic Picture boxes 
+ //* * This program generates picture boxes and puts pictures it in to make an illusion 
+ //* that the cartoon is walking
+*/
+using System;
 using System.Collections.Generic;
 using System.ComponentModel;
 using System.Data;
