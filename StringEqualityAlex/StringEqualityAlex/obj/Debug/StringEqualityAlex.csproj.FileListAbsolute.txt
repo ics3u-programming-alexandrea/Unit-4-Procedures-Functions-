@@ -1,0 +1,9 @@
+C:\Users\User\Documents\ICS3U Programming\Unit-4-Procedures-Functions-\StringEqualityAlex\StringEqualityAlex\bin\Debug\StringEqualityAlex.exe.config
+C:\Users\User\Documents\ICS3U Programming\Unit-4-Procedures-Functions-\StringEqualityAlex\StringEqualityAlex\bin\Debug\StringEqualityAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-4-Procedures-Functions-\StringEqualityAlex\StringEqualityAlex\bin\Debug\StringEqualityAlex.pdb
+C:\Users\User\Documents\ICS3U Programming\Unit-4-Procedures-Functions-\StringEqualityAlex\StringEqualityAlex\obj\Debug\StringEqualityAlex.csprojAssemblyReference.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-4-Procedures-Functions-\StringEqualityAlex\StringEqualityAlex\obj\Debug\StringEqualityAlex.Properties.Resources.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-4-Procedures-Functions-\StringEqualityAlex\StringEqualityAlex\obj\Debug\StringEqualityAlex.frmStringEquality.resources
+C:\Users\User\Documents\ICS3U Programming\Unit-4-Procedures-Functions-\StringEqualityAlex\StringEqualityAlex\obj\Debug\StringEqualityAlex.csproj.GenerateResource.cache
+C:\Users\User\Documents\ICS3U Programming\Unit-4-Procedures-Functions-\StringEqualityAlex\StringEqualityAlex\obj\Debug\StringEqualityAlex.exe
+C:\Users\User\Documents\ICS3U Programming\Unit-4-Procedures-Functions-\StringEqualityAlex\StringEqualityAlex\obj\Debug\StringEqualityAlex.pdb

@@ -32,8 +32,8 @@
             this.lblCases = new System.Windows.Forms.Label();
             this.lblEnter = new System.Windows.Forms.Label();
             this.btnCheck = new System.Windows.Forms.Button();
-            this.textBox1 = new System.Windows.Forms.TextBox();
-            this.textBox2 = new System.Windows.Forms.TextBox();
+            this.txtString1 = new System.Windows.Forms.TextBox();
+            this.txtString2 = new System.Windows.Forms.TextBox();
             this.lblAnswer = new System.Windows.Forms.Label();
             this.lblString2 = new System.Windows.Forms.Label();
             this.SuspendLayout();
@@ -79,19 +79,19 @@
             this.btnCheck.UseVisualStyleBackColor = true;
             this.btnCheck.Click += new System.EventHandler(this.BtnCheck_Click);
             // 
-            // textBox1
+            // txtString1
             // 
-            this.textBox1.Location = new System.Drawing.Point(268, 91);
-            this.textBox1.Name = "textBox1";
-            this.textBox1.Size = new System.Drawing.Size(212, 20);
-            this.textBox1.TabIndex = 4;
+            this.txtString1.Location = new System.Drawing.Point(268, 91);
+            this.txtString1.Name = "txtString1";
+            this.txtString1.Size = new System.Drawing.Size(212, 20);
+            this.txtString1.TabIndex = 4;
             // 
-            // textBox2
+            // txtString2
             // 
-            this.textBox2.Location = new System.Drawing.Point(268, 149);
-            this.textBox2.Name = "textBox2";
-            this.textBox2.Size = new System.Drawing.Size(212, 20);
-            this.textBox2.TabIndex = 5;
+            this.txtString2.Location = new System.Drawing.Point(268, 149);
+            this.txtString2.Name = "txtString2";
+            this.txtString2.Size = new System.Drawing.Size(212, 20);
+            this.txtString2.TabIndex = 5;
             // 
             // lblAnswer
             // 
@@ -120,8 +120,8 @@
             this.ClientSize = new System.Drawing.Size(590, 280);
             this.Controls.Add(this.lblString2);
             this.Controls.Add(this.lblAnswer);
-            this.Controls.Add(this.textBox2);
-            this.Controls.Add(this.textBox1);
+            this.Controls.Add(this.txtString2);
+            this.Controls.Add(this.txtString1);
             this.Controls.Add(this.btnCheck);
             this.Controls.Add(this.lblEnter);
             this.Controls.Add(this.lblCases);
@@ -139,8 +139,8 @@
         private System.Windows.Forms.Label lblCases;
         private System.Windows.Forms.Label lblEnter;
         private System.Windows.Forms.Button btnCheck;
-        private System.Windows.Forms.TextBox textBox1;
-        private System.Windows.Forms.TextBox textBox2;
+        private System.Windows.Forms.TextBox txtString1;
+        private System.Windows.Forms.TextBox txtString2;
         private System.Windows.Forms.Label lblAnswer;
         private System.Windows.Forms.Label lblString2;
     }
